@@ -1,0 +1,10 @@
+function registro(){
+url 
+
+
+
+
+
+
+	
+}

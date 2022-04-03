@@ -1,0 +1,40 @@
+body{
+	width:1115px;
+	margin: 130px 160px;
+	background: #FDF5D1 ;
+	}
+
+h1{
+	text-align:center;
+	}
+	
+form{
+	width: 715px;
+}
+img{
+	width:40px;
+	height:20px;
+}
+.adm {
+	width=:90px; 
+	height: 60px;
+}
+.al {
+	width=:140px; 
+	height: 60px;
+}
+
+button {
+	margin: 8px;
+}
+.container {
+	width: 715px;
+	height: 470px;
+	background: ;
+}
+.tt {
+	text-align: center;
+	border: 50px;
+	border-radius: 20px;
+
+}
